@@ -11,4 +11,5 @@ selector {
 
 p { /* select all <p> */
   font-size: 1em; /* could also be ?pt, 100%, 1em; 1em is equal to 16px */
+  line-height: 1.5em;
 }
