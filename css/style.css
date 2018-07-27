@@ -52,6 +52,7 @@ figcaption {
 
 /* Psuedo Selector */
 
-#details a:link
+#details a:link { /* #details is a descendant selector and a:link is the psuedo selector */
+
 
 
