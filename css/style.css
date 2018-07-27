@@ -39,3 +39,10 @@ figcaption {
 #logo {
   background: aqua;
 }
+
+/*descendant selector */
+
+#logo h1 { 
+  font-family: ;
+}
+
