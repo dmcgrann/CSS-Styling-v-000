@@ -52,8 +52,19 @@ figcaption {
 
 /* Psuedo Selector */
 
-#details a:link { /* #details is a descendant selector and a:link is the psuedo selector */
+#details a:link, #details a:visited { /* #details is a descendant selector and a:link is the psuedo selector */
   color: black;
   text-decoration: none;
+}
+
+#details a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+#details a:active {
+  color: ;
+}
+}
 
 
