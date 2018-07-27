@@ -21,7 +21,10 @@ figcaption {
   /*font-size: 0.75em;*/
   /*line-height: 1.5em;*/
   /*font-family: Georgia, "Times New Roman", serif;*/
-  font: normal 0.75em/1.5em Georgia, "Times New Roman", serif;
+  font: normal 0.75em/1.5em 'Elsie Swash Caps', cursive;
   color: #777; /* in hexidecimal, you can use three digit short hand for matching pairs 777777 shortens to 777 */
   text-align: right ; 
 }
+
+/* Class selector (applied to as many elements as you like) */
+
